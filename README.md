@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Java Developers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adityamad/TwInstaBook-.git](https://github.com/Adityamad/TwInstaBook-.git)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Adityamad)
 
 - 💬 Ask me about **Java, Data Structures and Algorithm**
 
