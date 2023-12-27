@@ -1,14 +1,14 @@
-- <h3 align="center">A passionate Java and Android developer from India</h3>
+- <h3 align="center">A passionate Java and Spring Boot developer from India</h3>
 
-- 🔭 I’m currently working on **Chat App and Clone WhatsApp**
+- 🔭 I’m currently working on **Spring Boot Application**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Spring Boot, Microservices, REST API's**
 
-- 🤝 I’m looking for help with **Android Developers**
+- 🤝 I’m looking for help with **Java Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adityamad/TwInstaBook-.git](https://github.com/Adityamad/TwInstaBook-.git)
 
-- 💬 Ask me about **Java, Data Structures**
+- 💬 Ask me about **Java, Data Structures and Algorithm**
 
 - 📫 How to reach me **amadabhavi1724@gmail.com**
 
